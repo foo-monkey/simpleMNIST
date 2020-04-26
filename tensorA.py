@@ -22,4 +22,4 @@ pt1 = plt.imshow(train_images[7])
 pt2 = plt.imshow(train_images[7], cmap=plt.cm.binary)
 plt.show(pt2)
 
-#plt.savefig("testfile.png")
+plt.savefig("testfile2.png")
