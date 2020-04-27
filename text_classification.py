@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ## TODO - revert numpy to 1.16.1 duo to faluare in indexing, known issue for numpy.
-## TODO - test with latest numpy version  (1.18.3) - later descover that on numpy open issues table.
+## TODO - test with latest numpy version  (1.18.3) - later descover that on numpy open issues.
 from tensorflow_core.python import variable_scope
 
 data = keras.datasets.imdb
